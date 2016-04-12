@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Bill Broughton -- Developer -- @billtechspring
+
+# THANKS
+
+    Logo from logodust.com - shout out to fairpixels.co
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Bootstrap
+    Mautic

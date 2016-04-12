@@ -1,0 +1,32 @@
+body {
+  font-size: 16px;
+  color: white;
+  background: url("../img/water.jpeg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.brand {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.brand>img, .brand>.brand-name {
+  display: inline;
+}
+
+.brand>.brand-name {
+  font-size: 4rem;
+  line-height: 72px;
+  vertical-align: middle;
+  margin-left: 1.6rem;
+}
+
+@media (min-width: 970px) {
+  .main {
+    margin-top: 15vh;
+  }
+}
+
+.headline, .copy-text {
+  margin-bottom: 2rem;
+}
